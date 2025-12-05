@@ -1,3 +1,6 @@
+//2.2 client side code
+
+
 import java.io.*;
 import java.net.*;
 
